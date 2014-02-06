@@ -1,3 +1,5 @@
 config/travis.yml
 .yardoc
 log/
+/.bundle
+/vendor/bundle
